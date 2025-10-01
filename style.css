@@ -302,3 +302,9 @@ section {
     width: 400px;
     margin: auto 0;
 }
+
+/*experience*/
+
+#experience {
+    position: relative;
+}
