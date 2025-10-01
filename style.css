@@ -345,3 +345,6 @@ article .icon {
 
 /*projects*/
 
+#projects {
+    position: relative;
+}
